@@ -1,0 +1,21 @@
+[4mUser: admin[0m
+User admin has 5 task/s assigned to them.
+User admin has 62.5% of the total task/s assigned.
+User admin has completed 40.0% of tasks assigned to them.
+User admin has 60.0% of tasks assigned to them incomplete.
+User admin has 60.0% of tasks assigned to them incomplete and overdue.
+
+[4mUser: apple[0m
+User apple has 3 task/s assigned to them.
+User apple has 37.5% of the total task/s assigned.
+User apple has completed 33.33% of tasks assigned to them.
+User apple has 66.67% of tasks assigned to them incomplete.
+User apple has 66.67% of tasks assigned to them incomplete and overdue.
+
+[4mUser: user[0m
+User user has 0 task/s assigned to them.
+User user has 0.0% of the total task/s assigned.
+User user has completed 0.0% of tasks assigned to them.
+User user has 0.0% of tasks assigned to them incomplete.
+User user has 0.0% of tasks assigned to them incomplete and overdue.
+
