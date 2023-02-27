@@ -1,0 +1,6 @@
+There are 8 total task/s.
+There are 3 task/s completed.
+There are 5 task/s uncompleted.
+There are 5 task/s that are incomplete and overdue.
+There are 62.5% of tasks are incomplete.
+There are 62.5% of tasks are overdue.
